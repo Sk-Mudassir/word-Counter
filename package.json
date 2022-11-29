@@ -1,5 +1,6 @@
 {
   "name": "word_counter",
+  "homepage": "https://Sk-Mudassir.github.io/word-Counter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
